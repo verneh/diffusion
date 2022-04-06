@@ -1,1 +1,1 @@
-# diffusion
+# diffusion model repo
